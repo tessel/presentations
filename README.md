@@ -1,4 +1,4 @@
-#Technical Machine Presentations
+#Tessel Presentations
 
 Slides from Tessel-related talks and presentations. Please feel free to:
 * use these slides for your own presentations
