@@ -7,3 +7,5 @@ Slides on [Slideshare](http://www.slideshare.net/TechnicalMachine/node-as-a-move
 Slides on [Google Drive](https://docs.google.com/presentation/d/1dIQTSfldiCm2BVa3H6eBzA84WEa3P-yrdrHypVypBM0/edit?usp=sharing)
 
 Presentation on [Youtube](https://www.youtube.com/watch?v=c93WZXIN3Jk)
+
+License: [CC-by-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)

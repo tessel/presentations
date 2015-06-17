@@ -7,3 +7,5 @@ Slides on [Slideshare](http://www.slideshare.net/TechnicalMachine/bringing-hardw
 Slides on [Google Drive](https://docs.google.com/presentation/d/1snwuFpZdGrnS-3mqvChEN1GjBPVIsf5IA3213s2OSGg/edit?usp=sharing)
 
 Presentation on [Skillscast](https://skillsmatter.com/skillscasts/5793-bringing-hardware-to-life-with-js-and-node)
+
+License: [CC-by-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
