@@ -5,3 +5,5 @@ Eric Kolker
 Slides on [Slideshare](http://www.slideshare.net/TechnicalMachine/from-apis-to-electrons-a-js-on-hardware-journey)
 
 Slides on [Google Drive](https://docs.google.com/presentation/d/1m0BosqNpANs5hljVYhb06fpzVuu5lVVuO1nz8v1JvUg/edit?usp=sharing)
+
+License: [CC-by-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
