@@ -5,3 +5,5 @@ Tim Ryan
 Slides on [Slideshare](http://www.slideshare.net/TechnicalMachine/fluent-20-min-32416115)
 
 Slides on [Google Drive](https://docs.google.com/presentation/d/1zacMqRARhK9xAbO8sLdq8Yl_iwfkrR18MjapAjw4Deg/edit?usp=sharing)
+
+License: [CC-by-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
